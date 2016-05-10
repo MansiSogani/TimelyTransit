@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Study\SJSU\272\myMaps\myMaps\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffd794810264c090e60d6b585b08005440806716">
+        <dex dex="G:\Study\SJSU\272\myMaps\myMaps\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_8c01aaa5eee98fdaafe52f7117ce10468a43c4c2.jar" />
+    </item>
+    <item
+        jar="G:\Study\mobile\ionicplatform\myMaps\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51bd577623184456e7d62a9ffee181e314050ce0">
+        <dex dex="G:\Study\mobile\ionicplatform\myMaps\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_911fb2f0ce017b216dbc80b5e68c96e91f009ba8.jar" />
+    </item>
+
+</items>
